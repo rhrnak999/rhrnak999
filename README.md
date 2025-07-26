@@ -9,4 +9,4 @@
 - https://github.com/rhrnak999
 
 
-[Show Details...](https://example.com)
+[Show Details...](https://github.com/rhrnak999/introduction)
